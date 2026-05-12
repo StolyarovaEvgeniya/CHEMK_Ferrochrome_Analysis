@@ -1,0 +1,18 @@
+# Data files (CSV can be large)
+*.csv
+
+# Power BI files (optional - can be very large)
+*.pbix
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+__pycache__/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python virtual environment
+.env
+venv/
+*.pyc
